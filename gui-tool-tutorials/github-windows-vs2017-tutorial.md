@@ -20,7 +20,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
-GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
+GitHub keeps track of the relationship between your repo and the one you forked it from. You can think of your repo as a working copy.
 
 Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
 
@@ -44,7 +44,7 @@ Click the `Clone` button to initiate the process.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-02-clone2.png" alt="Clone repo" />
 
-When the process is complete you will be moved over to the Solution Explorer tab where you can see the contents of your repo.  Yours will look different than the screenshot below because things change!
+When the process is complete you will be moved over to the Solution Explorer tab where you can see the contents of your repo. Yours will look different than the screenshot below because things change!
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs2017-tutorial/vs2017-03-clone3.png" alt="Solution Explorer" />
 
